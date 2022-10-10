@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1_3\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1_3\arm\bin\armSTLINK.dll" 
+
+"C:\Users\cahit\Desktop\STM32F4UNiqeID\STM32F407_Uniqe_ID_Read\EWARM\STM32F407_Uniqe_ID_Read\Exe\STM32F407_Uniqe_ID_Read.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.1_3\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.1_3\arm/config/debugger/ST/STM32F4xx.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.1_3\arm/config/flashloader/ST/FlashSTM32F4xxx.board" 
+
+
+
+
